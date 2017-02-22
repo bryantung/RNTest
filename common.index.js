@@ -7,8 +7,8 @@ import {
   Text,
   View
 } from 'react-native';
-var EmotionRegion = require('./components/emotion.region')
-var PanJoystick = require('./components/pan.joystick')
+import EmotionRegion from './components/emotion.region';
+import PanJoystick from './components/pan.joystick';
 
 const windowHeight = Dimensions.get('window').height
 const windowWidth = Dimensions.get('window').width

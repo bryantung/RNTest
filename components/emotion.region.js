@@ -11,9 +11,6 @@ export default class EmotionRegion extends Component {
     static defaultProps = {
         rid: 0
     };
-    states = {
-
-    };
     render() {
         return (
             <View style={[styles.region, this.props.style]}>
