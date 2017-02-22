@@ -43,19 +43,6 @@ You should see your new app running in the iOS Simulator shortly.
 
 `react-native run-ios` is just one way to run your app. You can also run it directly from within Xcode or [Nuclide](https://nuclide.io/).
 
-### iOS
-
-Use the React Native command line interface to run `react-native run-ios` inside the project folder.
-
-```
-cd <path-to-project>/RNTest
-react-native run-ios
-```
-
-You should see your new app running in the iOS Simulator shortly.
-
-`react-native run-ios` is just one way to run your app. You can also run it directly from within Xcode or [Nuclide](https://nuclide.io/).
-
 ### Android
 
 Use the React Native command line interface to run `react-native run-android` inside the project folder.
